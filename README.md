@@ -3,11 +3,6 @@
 # CounterAPI
 This API allows you to create simple numeric counters.
 
-It goes as:
-* Create a counter and restrict its operations
-* Reset the value of a counter
-* Increment / Decrement a counter
-
 All counters are accesible if you know the key and there are not private counter.
 
 Want to track the number of hits a page had? Sure.
